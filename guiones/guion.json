@@ -1,0 +1,182 @@
+{
+     "audio": "audios/final.mp3",
+     "modelo": "modelos/modelotp3.glb",
+     "fondo": "rgb(0,50,110)",
+     "data": [
+          {
+               "tiempo": "00:00",
+               "duracion": 0,
+               "camara": "camara1",
+               "target": "target1",
+               "nombre": "negro"
+          },
+          {"tiempo": "00:03",
+               "duracion": 0,
+               "camara": "camara5",
+               "target": "target18",
+               "nombre": "blanco"
+          },{
+               "tiempo": "00:04",
+               "duracion": 0,
+               "camara": "camara1",
+               "target": "target1",
+               "nombre": "negro"
+          },
+          {
+               "tiempo": "00:06",
+               "duracion": 0,
+               "camara": "camara2",
+               "target": "target2",
+               "nombre": "aliento"
+          },
+          
+          
+          {
+               "tiempo": "00:12",
+               "duracion": 5000,
+               "camara": "camara3",
+               "target": "target10",
+               "nombre": "frente"
+          },
+          {
+               "tiempo": "00:17",
+               "duracion": 5000,
+               "camara": "camara3",
+               "target": "target4",
+               "nombre": "fogata"
+          },
+          {
+               "tiempo": "00:22",
+               "duracion": 9000,
+               "camara": "camara3",
+               "target": "target5",
+               "nombre": "capa"
+          },
+          {
+               "tiempo": "00:34",
+               "duracion": 15000,
+               "camara": "camara6",
+               "target": "target6",
+               "nombre": "bosque"
+          },
+          {
+               "tiempo": "00:49",
+               "duracion": 2000,
+               "camara": "camara6",
+               "target": "target11",
+               "nombre": "amanecer"
+          },
+          {
+               "tiempo": "00:51",
+               "duracion": 7000,
+               "camara": "camara7",
+               "target": "target7",
+               "nombre": "ramas"
+          },
+          {
+               "tiempo": "01:00",
+               "duracion": 5000,
+               "camara": "camara7",
+               "target": "target8",
+               "nombre": "piedras"
+          },
+          {
+               "tiempo": "01:05",
+               "duracion": 10000,
+               "camara": "camara7",
+               "target": "target9",
+               "nombre": "briznas"
+          },
+          {
+               "tiempo": "01:15",
+               "duracion": 5000,
+               "camara": "camara7",
+               "target": "target12",
+               "nombre": "flores"
+          },
+          {
+               "tiempo": "01:20",
+               "duracion": 5000,
+               "camara": "camara7",
+               "target": "target13",
+               "nombre": "setas"
+          },
+          {
+               "tiempo": "01:25",
+               "duracion": 7000,
+               "camara": "camara8",
+               "target": "target14",
+               "nombre": "carpaCentro"
+          },
+          {
+               "tiempo": "01:32",
+               "duracion": 7000,
+               "camara": "camara8",
+               "target": "target15",
+               "nombre": "carpaIzq"
+          },
+          {
+               "tiempo": "01:39",
+               "duracion": 12000,
+               "camara": "camara8",
+               "target": "target16",
+               "nombre": "carpaDer"
+          },
+          {
+               "tiempo": "01:51",
+               "duracion": 6000,
+               "camara": "camara8",
+               "target": "target14",
+               "nombre": "carpaCentro2"
+          },
+          {
+               "tiempo": "01:57",
+               "duracion": 16000,
+               "camara": "camara9",
+               "target": "target14",
+               "nombre": "aerea"
+          },
+          {
+               "tiempo": "02:13",
+               "duracion": 6000,
+               "camara": "camara10",
+               "target": "target19",
+               "nombre": "flasheada1"
+          },
+          {
+               "tiempo": "02:19",
+               "duracion": 3000,
+               "camara": "camara11",
+               "target": "target19",
+               "nombre": "flasheada2"
+          },
+          {
+               "tiempo": "02:22",
+               "duracion": 6000,
+               "camara": "camara9",
+               "target": "camara11",
+               "nombre": "flasheada3"
+          },
+          {
+               "tiempo": "02:28",
+               "duracion": 7000,
+               "camara": "camara9",
+               "target": "target20",
+               "nombre": "flasheada4"
+          },
+          {
+               "tiempo": "02:35",
+               "duracion": 8000,
+               "camara": "camara3",
+               "target": "target20",
+               "nombre": "flasheada5"
+          },
+          {
+               "tiempo": "02:44",
+               "duracion": 0,
+               "camara": "camara1",
+               "target": "target1",
+               "nombre": "flasheada5"
+          }
+     ]
+}
